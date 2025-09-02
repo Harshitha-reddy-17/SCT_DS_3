@@ -10,7 +10,7 @@ Files Used: bank-full.csv
 This dataset contains information about marketing campaigns by a Portuguese banking institution.
 
 # ⚙ Steps Followed
-1. Data Preparation
+# 1. Data Preparation
 
 Load the dataset from a ZIP archive.
 
