@@ -69,15 +69,10 @@ Plot full decision tree using plot_tree() with feature names and class labels.
 # 🔧 Tools & Libraries Used
 
 Python 3.x
-
 pandas
-
 numpy
-
 matplotlib
-
 seaborn
-
 sklearn
 
 # 📌 How to Run
